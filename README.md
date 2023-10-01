@@ -7,6 +7,10 @@ Welcome to responsive headphones website, a stunning showcase built using HTML5,
 - **Responsive Design(Mobile-First):** website seamlessly adapts to different screen sizes and devices, ensuring a consistent and enjoyable browsing experience for users on desktop, tablet, and mobile.immense flexibility and control it offers.
 - **Engaging Sliders:** Utilizing the SwiperJS library, we have implemented dynamic and visually appealing sliders to showcase extensive collection of headphones, allowing users to explore the products effortlessly
 - **Smooth Animations:** With the ScrollReveal library, we've added smooth and captivating animations that bring the website to life as users scroll through the content, enhancing the overall user experience.
+## Preview
+
+![image-preview](https://github.com/Mostafabedeer/JBL/blob/main/preview.png)
+
 
 ## Demo
 
